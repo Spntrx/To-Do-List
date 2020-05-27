@@ -1,2 +1,3 @@
 # To-Do-List
-Create To Do List In JavaScript
+Created a To Do List in Javascript
+- Coded by Spntrx
